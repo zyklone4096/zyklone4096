@@ -1,10 +1,9 @@
-Bilibili: [H3xadecimal](https://space.bilibili.com/434219171)
+[Bilibili](https://space.bilibili.com/434219171) | 
+[MineBBS](https://www.minebbs.com/members/zyklone.65238/) | 
+[Modrinth](https://modrinth.com/user/H3xadecimal) | 
+[CivitAI](https://civitai.com/user/Zyklone)
 
-MineBBS: [H3xadecimal](https://www.minebbs.com/members/h3xadecimal.65238/)
-
-Modrinth: [H3xadecimal](https://modrinth.com/user/H3xadecimal)
-
-**Languages**: Java, Kotlin, Python
+**Languages**: Java, Kotlin
 
 [![H3xadecimal's GitHub stats](https://github-readme-stats.vercel.app/api?username=zyklone4096&count_private=true&locale=cn&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
