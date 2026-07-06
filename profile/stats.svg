@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Zyklone's GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 11, Total Commits  (last year) : 98, Total PRs: 30, Total Issues: 42, Contributed to (last year): 3</desc>
+        <desc id="descId">Total Stars Earned: 11, Total Commits  (last year) : 96, Total PRs: 30, Total Issues: 42, Contributed to (last year): 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 175.03563070246648;
+        stroke-dashoffset: 175.21313340734363;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >98</text>
+      >96</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
